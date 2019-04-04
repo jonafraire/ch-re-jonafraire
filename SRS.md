@@ -1,7 +1,7 @@
 # SRS 
-* [Introduction][1]
+* [Introduction][id]
 
-[1]: ### Introduction 
+[id]: ### Introduction 
 * Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
 The main purpose is to publicize the general operation of the billing system that is aimed at the Kairos company
 
