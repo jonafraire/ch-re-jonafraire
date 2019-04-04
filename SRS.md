@@ -1,5 +1,11 @@
 # SRS 
 ### Introduction
 *Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
+The main purpose is to publicize the general operation of the billing system that is aimed at the Kairos company
 
-*Scope: The name of the finish product it will be “Quinta Alejandra web page”. The page should promote the products offered by the Quinta Alejandra and to give a simple way to communicate with the business managers. The benefits of this page is that those interested have an easier way to find the services, as well as to communicate with the managers, the main objective being to facilitate the way of communication between the client and the provider.
+*Scope: The name of the finish product it will be “Facturation system”. 
+The system will be responsible for making quotes and invoices, these are the main tasks of the system.
+In addition, the system will be able to make highs and lows of products as well as customers of the company.
+The system will not be in charge of making transactions of any kind, mainly banking.
+
+
