@@ -21,5 +21,9 @@ The main purpose is to publicize the general operation of the billing system tha
 * References
 ....
 
-*
+* Overview 
+  * Section 1.- Focused on the explanation, objectives, goals and description of the document.
+  * Section 2.- General description of the system with information oriented to the client or end user
+  * Section 3.- Specific requirements and specific terms for the development team
+  * Section 4.- Appendices
 
