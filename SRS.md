@@ -1,7 +1,7 @@
 # SRS 
 
 
-##### Introduction 
+## Introduction 
 * Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
 The main purpose is to publicize the general operation of the billing system that is aimed at the Kairos company
 
@@ -29,7 +29,7 @@ The main purpose is to publicize the general operation of the billing system tha
   * Section 3.- Specific requirements and specific terms for the development team
   * Section 4.- Appendices
 
-##### Overall description
+## Overall description
 
 * Product perspective 
 The final product consists of a billing system, which will be responsible for making quotations and once approved they can be invoiced. Taking into account that you can also make high losses and changes of products, but mainly of customers and suppliers because the company does not have physical inventory so the inventory of products is not the most important
