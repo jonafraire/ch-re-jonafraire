@@ -94,8 +94,15 @@ It should not contain too many colors.
       * Provider
       * Product
 
-
-
+* Administrator screen
+  * This screen should available only for the system administrator(Owner) so in this screen the administrator can: 
+    * Add a new user
+    * Change privileges for each user
+    * Delete user
+    * See user movements
+    * Check quotes and invoices issued by each user
+    
+    
 
 
 
