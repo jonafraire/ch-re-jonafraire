@@ -35,8 +35,19 @@ The main purpose is to publicize the general operation of the billing system tha
   * The final product consists of a billing system, which will be responsible for making quotations and once approved they can be invoiced. Taking into account that you can also make high losses and changes of products, but mainly of customers and suppliers because the company does not have physical inventory so the inventory of products is not the most important
 
 * Product functions 
-  * 
+  * Generation of quotes
+  * Generation of invoices
+  * High losses and customer modifications
+  * High losses and modifications of suppliers and products
+  * Sales inquiry by invoice
+  * Generation of users / employees
+  * Profit consultation
 
+* User characteristics 
+User| Description
+------------ | -------------
+Owner| The owner can create the users for the employees, as well as view the sales reports of each employee. In addition, the owner can make the high losses and changes of suppliers, customers and products.
+Content in the first column | Content in the second column
 
 
 
