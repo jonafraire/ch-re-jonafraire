@@ -32,4 +32,17 @@ The main purpose is to publicize the general operation of the billing system tha
 ## Overall description
 
 * Product perspective 
-The final product consists of a billing system, which will be responsible for making quotations and once approved they can be invoiced. Taking into account that you can also make high losses and changes of products, but mainly of customers and suppliers because the company does not have physical inventory so the inventory of products is not the most important
+  * The final product consists of a billing system, which will be responsible for making quotations and once approved they can be invoiced. Taking into account that you can also make high losses and changes of products, but mainly of customers and suppliers because the company does not have physical inventory so the inventory of products is not the most important
+
+* Product functions 
+  * 
+
+
+
+
+
+
+
+
+
+
