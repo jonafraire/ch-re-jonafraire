@@ -69,38 +69,38 @@ The interface must be simple and with few elements to show, so that you can navi
 It should not contain too many colors.
 
 
-*Interface
+* Interface
 
-* First screen
+  * First screen
     * The first screen should show a welcome message and with its fields to login.
     * The window will have a small size of 500 x 500 pixels.
 
-* Principal screen 
-  * The principal screen will have a size that occupy the full window.
-  * Must have a menu at the top that shows the following characteristics and functions: 
+  * Principal screen 
+    * The principal screen will have a size that occupy the full window.
+    * Must have a menu at the top that shows the following characteristics and functions: 
    
-   * Invoice
-      * Invoice a previous quote
-      * Check invoice issued
-      * Cancel invoice
-      * See all invoices (Owner only)
+      * Invoice
+        * Invoice a previous quote
+        * Check invoice issued
+        * Cancel invoice
+        * See all invoices (Owner only)
     
-    * Quotation
-      * Generate new quote
-      * Search quote by number
+      * Quotation
+        * Generate new quote
+        * Search quote by number
       
-    * Modify (New, Delete, edit)
-      * Client
-      * Provider
-      * Product
+      * Modify (New, Delete, edit)
+        * Client
+        * Provider
+        * Product
 
-* Administrator screen
-  * This screen should available only for the system administrator(Owner) so in this screen the administrator can: 
-    * Add a new user
-    * Change privileges for each user
-    * Delete user
-    * See user movements
-    * Check quotes and invoices issued by each user
+  * Administrator screen
+    * This screen should available only for the system administrator(Owner) so in this screen the administrator can: 
+     * Add a new user
+     * Change privileges for each user
+     * Delete user
+     * See user movements
+     * Check quotes and invoices issued by each user
     
     
 
