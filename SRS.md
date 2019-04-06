@@ -63,5 +63,38 @@ Employee | The employee will have access to create quotes and invoices.
 
 
 ## Specific requirements 
+In this section we have more detailed information about the specific requirements of the system
+develop.
+The interface must be simple and with few elements to show, so that you can navigate quickly through it.
+It should not contain too many colors.
+
+
+*Interface
+
+* First screen
+    * The first screen should show a welcome message and with its fields to login.
+    * The window will have a small size of 500 x 500 pixels.
+
+* Principal screen 
+  * The principal screen will have a size that occupy the full window.
+  * Must have a menu at the top that shows the following characteristics and functions: 
+    * Invoice
+      * Invoice a previous quote
+      * Check invoice issued
+      * Cancel invoice
+      * See all invoices (Owner only)
+    * Quotation
+
+
+
+
+
+
+
+
+
+
+
+
 
 
