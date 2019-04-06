@@ -78,13 +78,21 @@ It should not contain too many colors.
 * Principal screen 
   * The principal screen will have a size that occupy the full window.
   * Must have a menu at the top that shows the following characteristics and functions: 
-    * Invoice
+   
+   * Invoice
       * Invoice a previous quote
       * Check invoice issued
       * Cancel invoice
       * See all invoices (Owner only)
+    
     * Quotation
-
+      * Generate new quote
+      * Search quote by number
+      
+    * Modify (New, Delete, edit)
+      * Client
+      * Provider
+      * Product
 
 
 
