@@ -48,7 +48,7 @@ The main purpose is to publicize the general operation of the billing system tha
 User | Description
 -----| -------------
 Owner | The owner can create the users for the employees, as well as view the sales reports of each employee. In addition, the       | owner can make the high losses and changes of suppliers, customers and products.
-Content in the first column | Content in the second column
+Employee | The employee...
 
 
 
