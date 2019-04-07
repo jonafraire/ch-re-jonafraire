@@ -121,7 +121,11 @@ It should not contain too many colors.
       * The employee has his own user
 
   * Non-Functional requirements  
-    * 
+    * The system must be connected to the server by means of a modem / router
+    * It will have a database that will be stored on the server, it will keep all the information about customers, suppliers and users
+    * Each quote and invoice must be stored both on the client computer and on the server
+    * The system can not be accessed if it is not accessed through a user account
+    * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT
 
 
 
