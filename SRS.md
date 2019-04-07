@@ -104,6 +104,8 @@ It should not contain too many colors.
       
 * Requirements
 
+![GitHub Logo](/invoice.png)
+
   * Functional requirements by users
     * Owner (administrator)
       * The administrator can make user registrations
