@@ -106,9 +106,22 @@ It should not contain too many colors.
 
   * Functional requirements by users
     * Owner (administrator)
-      * 
-    
+      * The administrator can make user registrations
+      * Can unsubscribe a user or edit their privileges
+      * Must approve the invoices issued by the users.
+      * Will be able to see each invoice and quotation of the users
+      * Can see the gains according to the desired period
+      * Can add and modify clients, as well as suppliers
+      * The administrator can also generate invoices and quotes
+      
+    * Employee  
+      * The employee may generate invoices that will be approved by the administrator
+      * The employee can generate quotes and can export them in PDF format
+      * The employee has access to edit quotes and also be able to bill them
+      * The employee has his own user
 
+  * Non-Functional requirements  
+    * 
 
 
 
