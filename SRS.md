@@ -104,9 +104,10 @@ It should not contain too many colors.
       
 * Requirements
 
-![GitHub Logo](/Invoice.png)
+
 
   * Functional requirements by users
+  ![GitHub Logo](/administrator.png)
     * Owner (administrator)
       * The administrator can make user registrations
       * Can unsubscribe a user or edit their privileges
@@ -115,7 +116,7 @@ It should not contain too many colors.
       * Can see the gains according to the desired period
       * Can add and modify clients, as well as suppliers
       * The administrator can also generate invoices and quotes
-      
+  ![GitHub Logo](/Invoice.png)
     * Employee  
       * The employee may generate invoices that will be approved by the administrator
       * The employee can generate quotes and can export them in PDF format
