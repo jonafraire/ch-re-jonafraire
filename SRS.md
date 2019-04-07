@@ -45,10 +45,10 @@ The main purpose is to publicize the general operation of the billing system tha
 
 * User characteristics 
 
-User | Description
------| -------------
+User  | Description
+----- | -------------
 Owner | The owner can create the users for the employees, as well as view the sales reports of each employee. In addition, the       | owner can make the high losses and changes of suppliers, customers and products.
-      | Must be able to access the system as administrator, create, edit and delete users, as well as approve invoices issued       | by employees
+      | Must be able to access the system as administrator, create, edit and delete users, as well as approve invoices issued       | by employees.
 Employee | The employee will have access to create quotes and invoices.
          | Must be able to generate them, as well as to be able to visualize their sales according to the invoices and their            | personal gains.
 
