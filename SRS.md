@@ -101,7 +101,12 @@ It should not contain too many colors.
       * Delete user
       * See user movements
       * Check quotes and invoices issued by each user
-    
+      
+* Requirements
+
+  * Functional requirements by users
+    * Owner (administrator)
+      * 
     
 
 
