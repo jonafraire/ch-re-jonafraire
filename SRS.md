@@ -104,7 +104,7 @@ It should not contain too many colors.
       
 * Requirements
 
-![GitHub Logo](/invoice.png)
+![GitHub Logo](/Invoice.png)
 
   * Functional requirements by users
     * Owner (administrator)
