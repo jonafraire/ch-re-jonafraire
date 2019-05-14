@@ -111,7 +111,7 @@ The main purpose is to publicize the general operation of the billing system tha
 
   * To the business managment process we have the [Elicitation process](#Elicitation-process) and this diagram was extracted for its representation: 
   * Main diagram
-   ![GitHub Logo](/images/Proyecto.png)
+   ![GitHub Logo](/SRS/images/Proyecto.png)
    
    * Quotation sub-process
    ![GitHub Logo](/quotation.png)
