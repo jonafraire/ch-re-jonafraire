@@ -20,6 +20,9 @@ The main purpose is to publicize the general operation of the billing system tha
   * SAT.- Servicio de Administración Tributaria 
   * Iva.- Impuesto al valor agregado
   * Stakeholder .- Any person with an interest in the project.
+  * Invoice. - Account in which the goods purchased or the services received are detailed, along with their quantity and amount, and which is delivered to the person who must pay for it.
+  * Quotation.- It refers to the fact of setting a price, paying a fee or making an estimate of something. This word is used to refer to the documentation that indicates the real value of a service or a good.
+  
 * References
 ....
 
