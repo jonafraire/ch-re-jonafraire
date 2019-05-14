@@ -220,16 +220,45 @@ It should not contain too many colors.
  Date | 25/04/2019
  Brief Description | The administrator must create the users of the vendors.
  Actors | Administrator
- Pre-conditions | To use the system the administrator must instruct the seller to generate quotes and invoices.
- Normal flow | * Seller .- Login the system, generate the quotation, generate the invoice. * Administrator.- Create the accounts, explain the operation of the system to the sellers, aprovate the invoices, generate reports.
- Alternative flow | In case of denying an invoice for any error the seller has to regenerate it
- Post-conditions | the invoices will be saved as well as the quote
+ Pre-conditions | Each user needs their account name
+ Normal flow | * The administrator must access his account, go to a section of users and create accounts.
+ Alternative flow | 
+ Post-conditions | Each user will be saved in the database
  
  
  
+ ##### Specific use case - create provider account
+  
+ ![GitHub Logo](/uc2.png)
+ 
+ User  | Description
+ ----- | -------------
+ Name | Create provider account
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | The administrator must create the accounts for the providers with your data.
+ Actors | Administrator
+ Pre-conditions | Each provider needs their account name and their main data.
+ Normal flow | * The administrator must access his account, go to a section of users and create the account.
+ Alternative flow | 
+ Post-conditions | Each provider will be saved in the database
  
  
+ ##### Specific use case - create provider account
+  
+ ![GitHub Logo](/uc2.png)
  
+ User  | Description
+ ----- | -------------
+ Name | Create provider account
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | The administrator must create the accounts for the providers with your data.
+ Actors | Administrator
+ Pre-conditions | Each provider needs their account name and their main data.
+ Normal flow | * The administrator must access his account, go to a section of users and create the account.
+ Alternative flow | 
+ Post-conditions | Each provider will be saved in the database
  
  
  
