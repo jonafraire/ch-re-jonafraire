@@ -217,7 +217,40 @@ It should not contain too many colors.
   ### Elicitation process
 
 
+Key points of the interview
 
+On April 24 we met with the owner of the company Mr. Víctor Fraire to talk about the system he is requesting and he explained the process of the company.
+The company has a main process, is dedicated to the sale of MRO products for maquiladora. The main process starts in the maquiladora, where the applicant has a request for material in the purchasing department, this time a request for quotation and sends it to the seller of the company for consultation and management of the state purchases Once the The purchase department approves the quote and generates a purchase order that is sent to the seller of the company.
+With the purchase order, the seller can generate the invoice that must be approved by the company administrator.
+
+We wrote down some points that the owner requested for the system:
+
+• The system must have an administrator. A user is defined for each employee.
+
+• The system must have two principles processes that are:
+ Quote
+Each user can quote and within the quote.
+- Quotation number
+- client
+- Product description (Supplier, part number, name, cost, amount and note)
+- Percentage of profit
+- Option to print
+- Option to export in PDF
+
+ Bill
+Each user can generate invoices that will be subsequently approved by the administrator, the invoice will also have the following characteristics:
+- Quotation number to invoice
+- Edit article
+- Select the products of the quote that will be made for production.
+- Complete to send the invoice to the administrator to approve it
+
+• The system must be able to store customers, suppliers and products.
+- For each case of customers and suppliers.
+- For the case of the products, the Name, the description, the cost and the part number must be stored. It should be noted that the products are not so important that there is no physical inventory, that the company only buys the products it will sell, but this option is required for future possibilities.
+
+• The administrator will be able to generate reports of the sales according to the invoiced by each employee
+• The administrator can generate a route report.
+- The trip report is a report that groups the purchases made by the billed products, grouped by supplier. This report is generated for the driver and delivery person
 
 
 
