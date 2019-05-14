@@ -15,12 +15,10 @@ Departamento de Ingeniería Electricidad y Computación</br>
 <p align="right">
 Development of software requirements</br>
 </br>
-</br>
 Facturation system</br>
 </br>
-</br>
 Jonathan Manuel Fraire Lopez</br>
-</br>
+
 </br>
 
 </br>
