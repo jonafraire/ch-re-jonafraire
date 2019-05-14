@@ -209,6 +209,37 @@ It should not contain too many colors.
  Alternative flow | In case of denying an invoice for any error the seller has to regenerate it
  Post-conditions | the invoices will be saved as well as the quote
  
+  ##### Specific use case - create seller account
+  
+ ![GitHub Logo](/uc1.png)
+ 
+ User  | Description
+ ----- | -------------
+ Name | Create seller account
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | The administrator must create the users of the vendors.
+ Actors | Administrator
+ Pre-conditions | To use the system the administrator must instruct the seller to generate quotes and invoices.
+ Normal flow | * Seller .- Login the system, generate the quotation, generate the invoice. * Administrator.- Create the accounts, explain the operation of the system to the sellers, aprovate the invoices, generate reports.
+ Alternative flow | In case of denying an invoice for any error the seller has to regenerate it
+ Post-conditions | the invoices will be saved as well as the quote
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
     * Owner (administrator)
       * The administrator can make user registrations
       * Can unsubscribe a user or edit their privileges
@@ -217,14 +248,16 @@ It should not contain too many colors.
       * Can see the gains according to the desired period
       * Can add and modify clients, as well as suppliers
       * The administrator can also generate invoices and quotes
-      
-  ![GitHub Logo](/Invoice.png)
+  
   
     * Employee  
       * The employee may generate invoices that will be approved by the administrator
       * The employee can generate quotes and can export them in PDF format
       * The employee has access to edit quotes and also be able to bill them
       * The employee has his own user
+
+
+
 
   #### Non Functional requirements  
     * The system must be connected to the server by means of a modem / router
