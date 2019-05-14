@@ -42,7 +42,7 @@ May 2019
 3. [Specific requirements](#Specific-requirements) 
     - [Interface](#Interface)
     - [Requirements](#requirements)
-       - [Functional requirements by users](#Functional-requirements-by-users)
+       - [Functional requirements](#Functional-requirements)
        - [Non functional requirements](#Non-functional-requirements) 
 3. [Appendices](#Appendices) 
    - [Elicitation process](#Elicitation-process)
