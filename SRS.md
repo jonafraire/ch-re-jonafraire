@@ -261,21 +261,21 @@ It should not contain too many colors.
  Post-conditions | The reports can be printed and saved
  
  
- ##### Specific use case - create provider account
+ ##### Specific use case - create client account
   
- ![GitHub Logo](/uc2.png)
+ ![GitHub Logo](/uc4.png)
  
  User  | Description
  ----- | -------------
- Name | Create provider account
+ Name | Create client account
  Author | Jonathan Manuel Fraire López
  Date | 25/04/2019
- Brief Description | The administrator must create the accounts for the providers with your data.
+ Brief Description | The administrator will generate the accounts for clients with their respective data, in addition to the fiscal data to generate the invoices
  Actors | Administrator
- Pre-conditions | Each provider needs their account name and their main data.
- Normal flow | * The administrator must access his account, go to a section of users and create the account.
+ Pre-conditions | The company needs to receive the fiscal data to generate the client's account
+ Normal flow | * The administrator must access his account, go to a section of users and create the client account.
  Alternative flow | 
- Post-conditions | Each provider will be saved in the database.
+ Post-conditions | Each customer will be saved, once saved they can generate their quotes and invoices
  
  
  
