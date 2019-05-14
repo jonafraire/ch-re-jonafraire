@@ -107,11 +107,12 @@ It should not contain too many colors.
       * Check quotes and invoices issued by each user
       
 * Requirements
-
-
-
   * Functional requirements by users
-  ![GitHub Logo](/administrator.png)
+
+ 
+ ![GitHub Logo](/administrator.png)
+ 
+ 
     * Owner (administrator)
       * The administrator can make user registrations
       * Can unsubscribe a user or edit their privileges
