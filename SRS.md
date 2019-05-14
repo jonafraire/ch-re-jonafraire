@@ -44,6 +44,7 @@ May 2019
     - [Requirements](#requirements)
        - [Functional requirements by users](#Functional-requirements-by-users)
        - [Non functional requirements](#Non-functional-requirements) 
+3. [Appendices](#Appendices) 
     
 
       
@@ -208,6 +209,8 @@ It should not contain too many colors.
     * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT
     * The system must contain a password for the administrator's account.
     * Each employee will have an ID with which they will enter the system
+    
+## Appendices 
 
 
 
