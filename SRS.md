@@ -241,25 +241,24 @@ It should not contain too many colors.
  Pre-conditions | Each provider needs their account name and their main data.
  Normal flow | * The administrator must access his account, go to a section of users and create the account.
  Alternative flow | 
- Post-conditions | Each provider will be saved in the database
+ Post-conditions | Each provider will be saved in the database.
  
- 
- ##### Specific use case - create provider account
+
+ ##### Specific use case - Generate reports
   
- ![GitHub Logo](/uc2.png)
+ ![GitHub Logo](/uc3.png)
  
  User  | Description
  ----- | -------------
- Name | Create provider account
+ Name | CGenerate reports
  Author | Jonathan Manuel Fraire López
  Date | 25/04/2019
- Brief Description | The administrator must create the accounts for the providers with your data.
+ Brief Description | The administrator will be able to generate reports, sales reports, report by each vendor and reports for purchases
  Actors | Administrator
- Pre-conditions | Each provider needs their account name and their main data.
- Normal flow | * The administrator must access his account, go to a section of users and create the account.
+ Pre-conditions | The reports are generated with respect to the sales of the seller and the reports of purchases will be made by supplier to make the purchases.
+ Normal flow | * The administrator accesses his account, selects the section of reports and generates the desired report
  Alternative flow | 
- Post-conditions | Each provider will be saved in the database
- 
+ Post-conditions | The reports can be printed and saved
  
  
  
