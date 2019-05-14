@@ -45,7 +45,7 @@ May 2019
     - [Interface](#Interface)
     - [Requirements](#requirements)
        - [Functional requirements by users](#Functional-requirements-by-users)
-       - [Non functional requirements by users](#Non-functional-requirements-by-users) 
+       - [Non functional requirements](#Non-functional-requirements) 
     
 
       
