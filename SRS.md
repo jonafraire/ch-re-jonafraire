@@ -34,17 +34,14 @@ May 2019
     - [Definitions, acronyms, and abbreviations](#Definitions-acronyms-and-abbreviations)
     - [References](#References)
     - [Overview](#Overview)
-    - [Business Managment Process](#Business-Managment-Process)
-- [Interest for tax declaration](#Interest-for-tax-declaration)
-- [Case documentation](#Case-documentation)
-- [Reception of documentation(Business)](#Reception-of-documentation(Business))
-- [Submission of documentation and invoice](#Submission-of-documentation-and-invoice)
-- [Reception of documentation(Customer)](#Reception-of-documentation(Customer))
-    - [Definitions acronyms and abbreviations](#definitions-acronyms-and-abbreviations)
+   
+  
     - [References](#References)
     - [Overview](#Overview)
 2. [Overrall description](#Overrall-description)
+    - [Business Managment Process](#Business-Managment-Process)
     - [Product perspective](#Product-perspective)
+        - [Product functions](#Class-diagram)
         - [Class diagram](#Class-diagram)
         - [User interfaces](#User-interfaces)
         - [Hardware interfaces](#Hardware-interfaces)
@@ -117,12 +114,16 @@ The main purpose is to publicize the general operation of the billing system tha
   * Section 3.- Specific requirements and specific terms for the development team.
   * Section 4.- Appendices.
 
+
+
+
+
 ## Overall description
 
-* Product perspective 
+### Product perspective 
   * The final product consists of a billing system, which will be responsible for making quotations and once approved they can be invoiced. Taking into account that you can also make high losses and changes of products, but mainly of customers and suppliers because the company does not have physical inventory so the inventory of products is not the most important.
 
-* Product functions 
+### Product functions 
   * Generation of quotes
   * Generation of invoices
   * High losses and customer modifications
@@ -131,7 +132,7 @@ The main purpose is to publicize the general operation of the billing system tha
   * Generation of users / employees
   * Profit consultation
 
-* User characteristics 
+### User characteristics 
 
 User  | Description
 ----- | -------------
