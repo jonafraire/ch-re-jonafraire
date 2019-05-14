@@ -1,6 +1,97 @@
 # SRS 
 
 
+<p align="center">
+Universidad Autónoma de Ciudad Juárez</br>
+División Multidisciplinaria de Ciudad Universitaria</br>
+Departamento de Ingeniería Electricidad y Computación</br>
+</p>
+<br>
+<p align="center">
+<img width="270" height="270" 
+  src="http://www.uacj.mx/comunicacion/PublishingImages/Escudo%20UACJ%202015/Escudo%20uacj%202015-color-sin%20fondo.png">
+</p>
+<br>
+<p align="right">
+Development of software requirements</br>
+</br>
+</br>
+facturation system</br>
+</br>
+</br>
+Jonathan Manuel Fraire Lopez</br>
+</br>
+</br>
+
+</br>
+</br>
+May 2019
+</p>
+
+# Table of contents
+1. [Introduction](#Introduction)
+    - [Purpose](#Purpose)
+    - [Scope](#Scope)
+    - [Business Managment Process](#Business-Managment-Process)
+- [Interest for tax declaration](#Interest-for-tax-declaration)
+- [Case documentation](#Case-documentation)
+- [Exceeds installed capacity?](#Exceeds-installed-capacity?)
+- [Case analysis](#Case-analysis)
+- [Review of the client's history](#Review-of-the-client's-history)
+- [Complete documentation?](#Complete-documentation?)
+- [The document are completed](#The-document-are-completed)
+- [Equipment available or functional?](#Equipment-available-or-functional?)
+- [Fix problem](#Fix-problem)
+- [Tax procedures](#Tax-procedures)
+- [Reception of the procedure](#Reception-of-the-procedure)
+- [Issuance of tax receipts](#Issuance-of-tax-receipts)
+- [Reception of documentation(Business)](#Reception-of-documentation(Business))
+- [Submission of documentation and invoice](#Submission-of-documentation-and-invoice)
+- [Reception of documentation(Customer)](#Reception-of-documentation(Customer))
+    - [Definitions acronyms and abbreviations](#definitions-acronyms-and-abbreviations)
+    - [References](#References)
+    - [Overview](#Overview)
+2. [Overrall description](#Overrall-description)
+    - [Product perspective](#Product-perspective)
+        - [Class diagram](#Class-diagram)
+        - [User interfaces](#User-interfaces)
+        - [Hardware interfaces](#Hardware-interfaces)
+        - [Software interfaces](#Software-interfaces)
+        - [Communications interfaces](#Communications-interfaces)
+        - [Memory](#Memory)
+        - [Operations](#Operations)
+        - [Site adaptation requirements](#Site-adaptation-requirements)
+    - [Product](#Product)
+    - [User characteristics](#User-characteristics)
+        - [Educational level, experience y technical expertise](#Educational-level-experience-y-technical-expertise)
+        - [Constrains](#Constrains)
+
+    - [External interfaces](#External-interfaces)
+    - [Functions](#Functions)
+   
+3. [Specific requirements](#Specific-requirements) 
+    - [Logical database requirements](#Logical-database-requirements)
+
+        - [Security](#Security)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Introduction 
 * Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
 The main purpose is to publicize the general operation of the billing system that is aimed at the Kairos company.
