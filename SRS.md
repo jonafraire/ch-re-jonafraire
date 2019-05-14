@@ -204,8 +204,9 @@ It should not contain too many colors.
  Brief Description |The application will have a main task, make contributions that may later be invoices, in addition to having high losses and changes of users, suppliers and customers.
  Actors | Seller, Administrator
  Pre-conditions | To use the system the administrator must instruct the seller to generate quotes and invoices.
- Normal flow | * Seller .- Login the system, generate the quotation, generate the invoice.
- * Administrator.- Create the accounts, aprovate the invoices, generate reports.
+ Normal flow | * Seller .- Login the system, generate the quotation, generate the invoice. * Administrator.- Create the accounts, explain the operation of the system to the sellers, aprovate the invoices, generate reports.
+ Alternative flow | In case of denying an invoice for any error the seller has to regenerate it
+ Post-conditions | the invoices will be saved as well as the quote
  
     * Owner (administrator)
       * The administrator can make user registrations
