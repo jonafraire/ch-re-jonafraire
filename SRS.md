@@ -135,8 +135,8 @@ It should not contain too many colors.
     * Each quote and invoice must be stored both on the client computer and on the server
     * The system can not be accessed if it is not accessed through a user account
     * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT
-    * El sistema debe contener contraseña para la cuenta del administrador. 
-    * Cada empleado tendra un ID con el cual ingresara en el sistema
+    * The system must contain a password for the administrator's account.
+    * Each employee will have an ID with which they will enter the system
 
 
 
