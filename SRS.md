@@ -209,7 +209,7 @@ It should not contain too many colors.
  Alternative flow | In case of denying an invoice for any error the seller has to regenerate it
  Post-conditions | the invoices will be saved as well as the quote
  
-  ##### Specific use case - create seller account
+  ##### Specific use case - Create seller account
   
  ![GitHub Logo](/uc1.png)
  
@@ -227,7 +227,7 @@ It should not contain too many colors.
  
  
  
- ##### Specific use case - create provider account
+ ##### Specific use case - Create provider account
   
  ![GitHub Logo](/uc2.png)
  
@@ -250,7 +250,7 @@ It should not contain too many colors.
  
  User  | Description
  ----- | -------------
- Name | CGenerate reports
+ Name | Generate reports
  Author | Jonathan Manuel Fraire López
  Date | 25/04/2019
  Brief Description | The administrator will be able to generate reports, sales reports, report by each vendor and reports for purchases
@@ -261,7 +261,7 @@ It should not contain too many colors.
  Post-conditions | The reports can be printed and saved
  
  
- ##### Specific use case - create client account
+ ##### Specific use case - Create client account
   
  ![GitHub Logo](/uc4.png)
  
@@ -275,30 +275,61 @@ It should not contain too many colors.
  Pre-conditions | The company needs to receive the fiscal data to generate the client's account
  Normal flow | * The administrator must access his account, go to a section of users and create the client account.
  Alternative flow | 
- Post-conditions | Each customer will be saved, once saved they can generate their quotes and invoices
+ Post-conditions | Each customer will be saved, once saved they can generate their quotes and invoices.
  
- 
- 
- 
- 
- 
-    * Owner (administrator)
-      * The administrator can make user registrations
-      * Can unsubscribe a user or edit their privileges
-      * Must approve the invoices issued by the users.
-      * Will be able to see each invoice and quotation of the users
-      * Can see the gains according to the desired period
-      * Can add and modify clients, as well as suppliers
-      * The administrator can also generate invoices and quotes
+ ##### Specific use case - Generate quotation
   
+ ![GitHub Logo](/uc5.png)
+ 
+ User  | Description
+ ----- | -------------
+ Name | Generate quotation
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | The seller can generate quotes for registered customers.
+ Actors | Seller
+ Pre-conditions | To make quotes you need to be the registered customer
+ Normal flow | The seller needs to login and create a new quote
+ Alternative flow | 
+ Post-conditions | The quote will be saved and can be exported in PDF format
+ 
+ 
+ ##### Specific use case - Log in/ log out
   
-    * Employee  
-      * The employee may generate invoices that will be approved by the administrator
-      * The employee can generate quotes and can export them in PDF format
-      * The employee has access to edit quotes and also be able to bill them
-      * The employee has his own user
+ ![GitHub Logo](/uc6.png)
+ 
+ User  | Description
+ ----- | -------------
+ Name | Generate quotation
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | Both the administrator and the seller can log in and log out.
+ Actors | Seller, administrator 
+ Pre-conditions | To make quotes you need to be the registered customer
+ Normal flow | The seller needs to login and create a new quote
+ Alternative flow | 
+ Post-conditions | 
+ 
+ 
+ ##### Specific use case - Generate invoices
+  
+ ![GitHub Logo](/uc7.png)
+ 
+ User  | Description
+ ----- | -------------
+ Name | Generate quotation
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | Once the quote is generated, the seller can generate the invoice
+ Actors | Seller, administrator 
+ Pre-conditions | The customer must send the purchase order to be billed
+ Normal flow | The seller receives the purchase order and processes it for invoice
+ Alternative flow | 
+ Post-conditions | The invoice will be saved and can be exported in PDF.
 
-
+ 
+ 
+ 
 
 
   #### Non Functional requirements  
