@@ -196,6 +196,14 @@ It should not contain too many colors.
  
  ![GitHub Logo](/general.png)
  
+ User  | Description
+ ----- | -------------
+ Name | Facturation system
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description |The application will have a main task, make contributions that may later be invoices, in addition to having high losses and changes of users, suppliers and customers
+ Actors | Seller, Administrator
+ Pre-conditions | To use the system the administrator must instruct the seller to generate quotes and invoices
  
     * Owner (administrator)
       * The administrator can make user registrations
