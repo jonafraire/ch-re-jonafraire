@@ -341,7 +341,9 @@ It should not contain too many colors.
     * The system must contain a password for the administrator's account.
     * Each employee will have an ID with which they will enter the system
     
-    
+#### User requirements
+
+#### Sytem requirements
     
 ## Appendices 
 
