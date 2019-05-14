@@ -261,7 +261,21 @@ It should not contain too many colors.
  Post-conditions | The reports can be printed and saved
  
  
+ ##### Specific use case - create provider account
+  
+ ![GitHub Logo](/uc2.png)
  
+ User  | Description
+ ----- | -------------
+ Name | Create provider account
+ Author | Jonathan Manuel Fraire López
+ Date | 25/04/2019
+ Brief Description | The administrator must create the accounts for the providers with your data.
+ Actors | Administrator
+ Pre-conditions | Each provider needs their account name and their main data.
+ Normal flow | * The administrator must access his account, go to a section of users and create the account.
+ Alternative flow | 
+ Post-conditions | Each provider will be saved in the database.
  
  
  
