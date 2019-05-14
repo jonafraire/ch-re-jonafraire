@@ -84,8 +84,8 @@ May 2019
 ## Introduction 
 * Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
 The main purpose is to publicize the general operation of the billing system that is aimed at the Kairos company.
-
-* Scope #Scope: 
+# Scope
+* Scope: 
    * The name of the finish product it will be “Facturation system”. 
    * The system will be responsible for making quotes and invoices, these are the main tasks of the system.
    * In addition, the system will be able to make highs and lows of products as well as customers of the company.
