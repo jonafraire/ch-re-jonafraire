@@ -228,7 +228,7 @@ We wrote down some points that the owner requested for the system:
 • The system must have an administrator. A user is defined for each employee.
 
 • The system must have two principles processes that are:
-* Quote
+###### Quote
 Each user can quote and within the quote.
 - Quotation number
 - client
@@ -237,7 +237,7 @@ Each user can quote and within the quote.
 - Option to print
 - Option to export in PDF
 
-* Bill
+###### Bill
 Each user can generate invoices that will be subsequently approved by the administrator, the invoice will also have the following characteristics:
 - Quotation number to invoice
 - Edit article
