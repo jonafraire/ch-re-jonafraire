@@ -31,7 +31,9 @@ May 2019
 1. [Introduction](#Introduction)
     - [Purpose](#Purpose)
     - [Scope](#Scope)
-    - [Definitions, acronyms, and abbreviations](#Definitions,-acronyms,-and-abbreviations)
+    - [Definitions, acronyms, and abbreviations](#Definitions-acronyms-and-abbreviations)
+    - [References](#References)
+    - [Overview](#Overview)
     - [Business Managment Process](#Business-Managment-Process)
 - [Interest for tax declaration](#Interest-for-tax-declaration)
 - [Case documentation](#Case-documentation)
@@ -83,7 +85,9 @@ May 2019
 
 
 ## Introduction 
-* Purpose: The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
+
+### Purpose: 
+The purpose of this SRS is to provide the software specification as a tool of communication between the customer and the software designer team to give a best product and avoid ambiguity.
 The main purpose is to publicize the general operation of the billing system that is aimed at the Kairos company.
 ### Scope
  
@@ -104,10 +108,10 @@ The main purpose is to publicize the general operation of the billing system tha
   * Invoice. - Account in which the goods purchased or the services received are detailed, along with their quantity and amount, and which is delivered to the person who must pay for it.
   * Quotation.- It refers to the fact of setting a price, paying a fee or making an estimate of something. This word is used to refer to the documentation that indicates the real value of a service or a good.
   
-* References
+### References
 ....
 
-* Overview 
+### Overview 
   * Section 1.- Focused on the explanation, objectives, goals and description of the document.
   * Section 2.- General description of the system with information oriented to the client or end user.
   * Section 3.- Specific requirements and specific terms for the development team.
