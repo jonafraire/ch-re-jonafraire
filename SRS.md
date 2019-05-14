@@ -45,6 +45,7 @@ May 2019
        - [Functional requirements by users](#Functional-requirements-by-users)
        - [Non functional requirements](#Non-functional-requirements) 
 3. [Appendices](#Appendices) 
+   - [Elicitation process](#Elicitation-process)
     
 
       
@@ -213,8 +214,7 @@ It should not contain too many colors.
     
 ## Appendices 
 
-
-
+  ### Elicitation process
 
 
 
