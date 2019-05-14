@@ -114,9 +114,9 @@ The main purpose is to publicize the general operation of the billing system tha
    ![GitHub Logo](/SRS/images/Proyecto.png)
    
    * Quotation sub-process
-   ![GitHub Logo](/quotation.png)
+   ![GitHub Logo](/SRS/images/quotation.png)
    * Generate accounts sub- process 
-   ![GitHub Logo](/accounts.png)
+   ![GitHub Logo](/SRS/images/accounts.png)
    
 
 ### Product perspective 
@@ -195,7 +195,7 @@ It should not contain too many colors.
   
   ##### General use case
  
- ![GitHub Logo](/general.png)
+ ![GitHub Logo](/SRS/images/general.png)
  
  User  | Description
  ----- | -------------
@@ -211,7 +211,7 @@ It should not contain too many colors.
  
   ##### Specific use case - Create seller account
   
- ![GitHub Logo](/uc1.png)
+ ![GitHub Logo](/SRS/images/uc1.png)
  
  User  | Description
  ----- | -------------
@@ -229,7 +229,7 @@ It should not contain too many colors.
  
  ##### Specific use case - Create provider account
   
- ![GitHub Logo](/uc2.png)
+ ![GitHub Logo](/SRS/images/uc2.png)
  
  User  | Description
  ----- | -------------
@@ -246,7 +246,7 @@ It should not contain too many colors.
 
  ##### Specific use case - Generate reports
   
- ![GitHub Logo](/uc3.png)
+ ![GitHub Logo](/SRS/images/uc3.png)
  
  User  | Description
  ----- | -------------
@@ -263,7 +263,7 @@ It should not contain too many colors.
  
  ##### Specific use case - Create client account
   
- ![GitHub Logo](/uc4.png)
+ ![GitHub Logo](/SRS/images/uc4.png)
  
  User  | Description
  ----- | -------------
@@ -279,7 +279,7 @@ It should not contain too many colors.
  
  ##### Specific use case - Generate quotation
   
- ![GitHub Logo](/uc5.png)
+ ![GitHub Logo](/SRS/images/uc5.png)
  
  User  | Description
  ----- | -------------
@@ -296,7 +296,7 @@ It should not contain too many colors.
  
  ##### Specific use case - Log in/ log out
   
- ![GitHub Logo](/uc6.png)
+ ![GitHub Logo](/SRS/images/uc6.png)
  
  User  | Description
  ----- | -------------
@@ -313,7 +313,7 @@ It should not contain too many colors.
  
  ##### Specific use case - Generate invoices
   
- ![GitHub Logo](/uc7.png)
+ ![GitHub Logo](/SRS/images/uc7.png)
  
  User  | Description
  ----- | -------------
