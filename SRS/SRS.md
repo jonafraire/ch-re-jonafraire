@@ -93,9 +93,17 @@ The main purpose is to publicize the general operation of the billing system tha
   * Stakeholder .- Any person with an interest in the project.
   * Invoice. - Account in which the goods purchased or the services received are detailed, along with their quantity and amount, and which is delivered to the person who must pay for it.
   * Quotation.- It refers to the fact of setting a price, paying a fee or making an estimate of something. This word is used to refer to the documentation that indicates the real value of a service or a good.
+  * MRO.- MRO is an acronym for Maintenance, Repair and Operations (Maintenance, Repair and Operations) In a business context it is a term that covers everything about the supply and acquisition of various materials, such as spare parts, stationery and ink cartridges.
   
 ### References
-....
+
+* (s.f.). Obtenido de Factura - ¿Qué es una factura?: https://debitoor.es/glosario/definicion-factura
+
+* Burns, E. (01 de Febrero de 2018). cuidatudinero.com. Obtenido de ¿Qué significa MRO en los negocios?: https://www.cuidatudinero.com/13168182/que-significa-mro-en-los-negocios
+
+* Oca, J. M. (s.f.). economipedia. Obtenido de Cotización: https://economipedia.com/definiciones/cotizacion.html
+
+
 
 ### Overview 
   * Section 1.- Focused on the explanation, objectives, goals and description of the document.
