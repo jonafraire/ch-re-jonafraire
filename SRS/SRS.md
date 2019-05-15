@@ -354,8 +354,11 @@ It should not contain too many colors.
     
 #### User requirements
 
-1.- The system must create, edit and eliminate users, both vendors, customers and suppliers
-2.- 
+1. The system must create, edit and eliminate users, both vendors, customers and suppliers
+2. The seller can access your account and generate a new quote or edit one already made.
+
+1.1 
+2.2 
 
 #### Sytem requirements
     
