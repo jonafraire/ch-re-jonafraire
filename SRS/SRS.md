@@ -354,6 +354,9 @@ It should not contain too many colors.
     
 #### User requirements
 
+1.- The system must create, edit and eliminate users, both vendors, customers and suppliers
+2.- 
+
 #### Sytem requirements
     
 ## Appendices 
