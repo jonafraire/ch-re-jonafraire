@@ -430,7 +430,7 @@ Each user can generate invoices that will be subsequently approved by the admini
 
 • The administrator will be able to generate reports of the sales according to the invoiced by each employee
 • The administrator can generate a route report.
-- The trip report is a report that groups the purchases made by the billed products, grouped by supplier. This report is generated for the driver and delivery person
+  - The trip report is a report that groups the purchases made by the billed products, grouped by supplier. This report is generated for the driver and delivery person
 
 
 
