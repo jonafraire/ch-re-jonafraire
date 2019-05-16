@@ -364,10 +364,7 @@ It should not contain too many colors.
 
 #### Sytem requirements
     
-    </br>
-    </br>
-    </br>
-    </br>
+
     
     
     
@@ -383,12 +380,14 @@ It should not contain too many colors.
 
 Key points of the interview
 
-On April 24 we met with the owner of the company Mr. Víctor Fraire to talk about the system he is requesting and he explained the process of the company.
-The company has a main process, is dedicated to the sale of MRO products for maquiladora. The main process starts in the maquiladora, where the applicant has a request for material in the purchasing department, this time a request for quotation and sends it to the seller of the company for consultation and management of the state purchases Once the The purchase department approves the quote and generates a purchase order that is sent to the seller of the company.
-With the purchase order, the seller can generate the invoice that must be approved by the company administrator.
+* On April 24 we met with the owner of the company Mr. Víctor Fraire to talk about the system he is requesting and he explained the process of the company.
+* The company has a main process, it is dedicated to the sale of MRO products for maquiladoras. The main process begins in the maquiladora, where the requisitor has a request for material and passes it to the purchasing department, the purchasing department makes a request for quotation and sends it to the vendor of the company for the realization of the quotation and send it to the department of purchases of return, once the department of purchases receives the quotation and approves it happens to realize the order of purchase that will be sent to the seller of the company.
+With the purchase order, the seller can generate the invoice of the desired material that must be approved by the company administrator.
+* Once the invoices have been generated, the administrator is responsible for generating the procurement reports, grouped by suppliers to give to the driver and he is responsible for making the purchases of the material and deliver it to the maquiladora. Once the material is delivered, the main process of the company ends.
 
-We wrote down some points that the owner requested for the system:
-
+* In addition to the owner of the company explaining the process of the company also provided us with some points of what you want the system to do and explained below
+* 
+* 
 • The system must have an administrator. A user is defined for each employee.
 
 • The system must have two principles processes that are:
