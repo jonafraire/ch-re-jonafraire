@@ -364,7 +364,10 @@ It should not contain too many colors.
 
 #### Sytem requirements
     
-    
+    </br>
+    </br>
+    </br>
+    </br>
     
     
     
