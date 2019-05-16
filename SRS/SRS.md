@@ -386,8 +386,7 @@ With the purchase order, the seller can generate the invoice of the desired mate
 * Once the invoices have been generated, the administrator is responsible for generating the procurement reports, grouped by suppliers to give to the driver and he is responsible for making the purchases of the material and deliver it to the maquiladora. Once the material is delivered, the main process of the company ends.
 
 * In addition to the owner of the company explaining the process of the company also provided us with some points of what you want the system to do and explained below
-* 
-* 
+
 • The system must have an administrator. A user is defined for each employee.
 
 • The system must have two principles processes that are:
