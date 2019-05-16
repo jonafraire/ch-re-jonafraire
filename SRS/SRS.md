@@ -354,12 +354,12 @@ It should not contain too many colors.
     
 #### User requirements
 
-1. The system must create, edit and eliminate users, both vendors, customers and suppliers.
-2. The seller can access your account and generate a new quote or edit one already made.
-3. The seller may invoice a purchase order received
-4. The system should generate reports from the administrator's account
-5. The system must export and print quotes and invoices
-6.  
+1. The system must create, edit and eliminate users, both vendors, customers and suppliers.</br>
+2. The seller can access your account and generate a new quote or edit one already made.</br>
+3. The seller may invoice a purchase order received. </br>
+4. The system should generate reports from the administrator's account. </br>
+5. The system must export and print quotes and invoices. </br>
+6. The system should to save the reports, invoices and quotes.
 
 
 #### Sytem requirements
