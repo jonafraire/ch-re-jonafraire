@@ -354,7 +354,7 @@ It should not contain too many colors.
     
 #### User requirements
 
-1. The system must create, edit and eliminate users, both vendors, customers and suppliers.</br>
+1. The system must create, edit and eliminate users, create providers profiles and client profiles .</br>
 2. The seller can access your account and generate a new quote or edit one already made.</br>
 3. The seller may invoice a purchase order received. </br>
 4. The system should generate reports from the administrator's account. </br>
@@ -363,7 +363,10 @@ It should not contain too many colors.
 
 
 #### Sytem requirements
-    
+  * 1.1 The system must store users, the administrator account must be in charge of generating a new account for a vendor, customer or supplier
+  * 1.2 Each user must be stored in the database
+  * 1.3 The account of the administrator will be in charge of granting the permissions and privileges for the accounts and profiles
+
 
     
     
