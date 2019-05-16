@@ -380,8 +380,8 @@ It should not contain too many colors.
   * 4.3 Only the administrator has permission to generate the reports.'
 * 5 
   * 5.1 All the invoices made as well as the quotes will be stored in the database in such a way that in some future they can be viewed in the system, as well as stored in the server in PDF format already exported.
-* 6.
-  * 6.1 
+* 6
+  * 6.1 Each main function, such as generating a new quote, generating a new invoice, searching for a client, searching for a supplier, exporting, editing an article, must have a keyboard shortcut to adjust the process when managing the system.
     
     
     
