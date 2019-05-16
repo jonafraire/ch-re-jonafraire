@@ -344,13 +344,13 @@ It should not contain too many colors.
 
 
   #### Non Functional requirements  
-    * The system must be connected to the server by means of a modem / router
-    * It will have a database that will be stored on the server, it will keep all the information about customers, suppliers and users
+    * The system must be connected to the server by means of a modem / router.
+    * It will have a database that will be stored on the server, it will keep all the information about customers, suppliers and users.
     * Each quote and invoice must be stored both on the client computer and on the server
     * The system can not be accessed if it is not accessed through a user account
-    * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT
+    * The system must request the respective characteristics to be able to invoice, both the key and the .xml files provided to the company by the SAT.
     * The system must contain a password for the administrator's account.
-    * Each employee will have an ID with which they will enter the system
+    * Each employee will have an ID with which they will enter the system.
     
 #### User requirements
 
@@ -359,15 +359,29 @@ It should not contain too many colors.
 3. The seller may invoice a purchase order received. </br>
 4. The system should generate reports from the administrator's account. </br>
 5. The system must export and print quotes and invoices. </br>
-6. The system should to save the reports, invoices and quotes.
+6. The system must have shortcuts for the keyboard
 
 
 #### Sytem requirements
-  * 1.1 The system must store users, the administrator account must be in charge of generating a new account for a vendor, customer or supplier
-  * 1.2 Each user must be stored in the database
-  * 1.3 The account of the administrator will be in charge of granting the permissions and privileges for the accounts and profiles
+* 1
+  * 1.1 The system must s.tore users, the administrator account must be in charge of generating a new account for a vendor, customer or supplier
+  * 1.2 Each user must be stored in the database.
+  * 1.3 The account of the administrator will be in charge of granting the permissions and privileges for the accounts and profiles.
 
-
+* 2
+  * 2.1 Each seller will have their own ID to login.
+  * 2.2 The seller will have permits to generate new quotes, and invoices
+* 3
+  * 3.1 Once the billing by the seller is saved and the billing process will be completed until the administrator approves it.
+  * 3.2 The invoice can be generated from a quote already made.
+* 4
+  * 4.1 The system will be able to generate reports in PDF format and save them in the database.
+  * 4.2 The system through the administrator account can generate reports for purchases, in addition to reports of purchases, to know the profits of the company, balance sheets and statements of the vendors of course their profits.
+  * 4.3 Only the administrator has permission to generate the reports.'
+* 5 
+  * 5.1 All the invoices made as well as the quotes will be stored in the database in such a way that in some future they can be viewed in the system, as well as stored in the server in PDF format already exported.
+* 6.
+  * 6.1 
     
     
     
