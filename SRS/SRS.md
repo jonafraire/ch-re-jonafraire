@@ -362,7 +362,7 @@ It should not contain too many colors.
 6. The system must have shortcuts for the keyboard
 
 
-#### Sytem requirements
+#### System requirements
 * 1
   * 1.1 The system must s.tore users, the administrator account must be in charge of generating a new account for a vendor, customer or supplier
   * 1.2 Each user must be stored in the database.
