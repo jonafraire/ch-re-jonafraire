@@ -377,11 +377,12 @@ It should not contain too many colors.
 * 4
   * 4.1 The system will be able to generate reports in PDF format and save them in the database.
   * 4.2 The system through the administrator account can generate reports for purchases, in addition to reports of purchases, to know the profits of the company, balance sheets and statements of the vendors of course their profits.
-  * 4.3 Only the administrator has permission to generate the reports.'
+  * 4.3 Only the administrator has permission to generate the reports.
 * 5 
   * 5.1 All the invoices made as well as the quotes will be stored in the database in such a way that in some future they can be viewed in the system, as well as stored in the server in PDF format already exported.
 * 6
   * 6.1 Each main function, such as generating a new quote, generating a new invoice, searching for a client, searching for a supplier, exporting, editing an article, must have a keyboard shortcut to adjust the process when managing the system.
+  * 6.2 The keyboard shortcuts will be saved in the system and any user can use them, all users have the same shortcuts.
     
     
     
