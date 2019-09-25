@@ -210,11 +210,11 @@ It should not contain too many colors.
  
  ![GitHub Logo](/SRS/images/general.png)
  
- User  | Description
+ Usuario  | Descripción
  ----- | -------------
  Name | Facturation system
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description |The application will have a main task, make contributions that may later be invoices, in addition to having high losses and changes of users, suppliers and customers.
  Actors | Seller, Administrator
  Pre-conditions | To use the system the administrator must instruct the seller to generate quotes and invoices.
@@ -226,10 +226,10 @@ It should not contain too many colors.
   
  ![GitHub Logo](/SRS/images/uc1.png)
  
- User  | Description
+ User  | Descripción
  ----- | -------------
  Name | Create seller account
- Author | Jonathan Manuel Fraire López
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
  Date | 25/04/2019
  Brief Description | The administrator must create the users of the vendors.
  Actors | Administrator
@@ -247,8 +247,8 @@ It should not contain too many colors.
  User  | Description
  ----- | -------------
  Name | Create provider account
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description | The administrator must create the accounts for the providers with your data.
  Actors | Administrator
  Pre-conditions | Each provider needs their account name and their main data.
@@ -264,8 +264,8 @@ It should not contain too many colors.
  User  | Description
  ----- | -------------
  Name | Generate reports
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description | The administrator will be able to generate reports, sales reports, report by each vendor and reports for purchases
  Actors | Administrator
  Pre-conditions | The reports are generated with respect to the sales of the seller and the reports of purchases will be made by supplier to make the purchases.
@@ -281,8 +281,8 @@ It should not contain too many colors.
  User  | Description
  ----- | -------------
  Name | Create client account
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description | The administrator will generate the accounts for clients with their respective data, in addition to the fiscal data to generate the invoices
  Actors | Administrator
  Pre-conditions | The company needs to receive the fiscal data to generate the client's account
@@ -297,8 +297,8 @@ It should not contain too many colors.
  User  | Description
  ----- | -------------
  Name | Generate quotation
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description | The seller can generate quotes for registered customers.
  Actors | Seller
  Pre-conditions | To make quotes you need to be the registered customer
@@ -314,8 +314,8 @@ It should not contain too many colors.
  User  | Description
  ----- | -------------
  Name | Generate quotation
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description | Both the administrator and the seller can log in and log out.
  Actors | Seller, administrator 
  Pre-conditions | To make quotes you need to be the registered customer
@@ -331,8 +331,8 @@ It should not contain too many colors.
  User  | Description
  ----- | -------------
  Name | Generate quotation
- Author | Jonathan Manuel Fraire López
- Date | 25/04/2019
+ Author | Jonathan Fraire, Omar Vargas y Mario Amador 
+ Date | 25/09/2019
  Brief Description | Once the quote is generated, the seller can generate the invoice
  Actors | Seller, administrator 
  Pre-conditions | The customer must send the purchase order to be billed
